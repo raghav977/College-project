@@ -134,7 +134,7 @@
     justify-content: center;
     flex-wrap: wrap;
     /* margin-top: 2rem; */
-    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/shopping.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('shopping.jpg');
     padding: 10rem;
     /* border: 2px solid red; */
     background-repeat: no-repeat;
@@ -261,7 +261,7 @@
 /* offer discount */
 .offer-discount{
     /* border: 2px solid red; */
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/printer3.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(printer3.jpg);
     padding: 6.5rem;
     background-repeat: no-repeat;
     background-position: center;
